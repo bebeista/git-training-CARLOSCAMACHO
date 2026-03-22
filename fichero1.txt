@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Primera línea desde MAIN
+=======
+Ahora estamos en la primera linea del fichero pero en la nueva rama featura/CARLOSCAMACHO
+>>>>>>> feature/CARLOSCAMACHO
