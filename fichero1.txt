@@ -1,6 +1,1 @@
-Primera línea
-Mi nombre es Carlos
-Soy un estudiante de DAM
-Me gusta programar (ha sido editado desde IntelliJ)
-Esto es una nueva funcionalidad que estoy creando en una rama nueva y las otras líneas no tienen sentido ahora, CARLOSCAMACHO
-Modificado desde IntelliJ
+Ahora estamos en la primera linea del fichero pero en la nueva rama featura/CARLOSCAMACHO
